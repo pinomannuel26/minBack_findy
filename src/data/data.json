@@ -1,0 +1,272 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "username": "usuario1",
+            "name": "Alicia",
+            "email": "usuario1@example.com",
+            "avatar": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042165/findy/GettyImages-1300321639_rgluqk.jpg",
+            "followers": [
+              2,
+              5
+            ],
+            "following": [
+              3,
+              4,
+              5
+            ],
+            "posts": [
+              1
+            ],
+            "portrait": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042193/findy/769933690_233804290_1706x960_c7e6nd.webp",
+            "description": "Only in the dark can you see the stars",
+            "password": "12345",
+            "postStore": [
+              
+            ],
+            "likesStore": [
+              
+            ]
+          },
+          {
+            "id": 2,
+            "username": "usuario2",
+            "name": "Camila",
+            "email": "usuario2@example.com",
+            "avatar": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042163/findy/descarga_uwsayn.jpg",
+            "portrait": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042163/findy/amigos-merecen-pena-1-kQ3C--620x349_abc_f11ajm.jpg",
+            "followers": [
+              3,
+              4
+            ],
+            "following": [
+              1,
+              3
+            ],
+            "posts": [
+              2,
+              5
+            ],
+            "description": "Pride will make you feel strong, but never happy.",
+            "password": "12345",
+            "postStore": [
+              
+            ],
+            "likesStore": [
+              
+            ]
+          },
+          {
+            "id": 3,
+            "username": "usuario3",
+            "name": "Carlos",
+            "email": "usuario3@example.com",
+            "avatar": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042164/findy/Hero_Mobile_Cuenta_Personas_V1_1_8046e424ea_jj2tsn.webp",
+            "followers": [
+              1
+            ],
+            "following": [
+              2,
+              4
+            ],
+            "posts": [
+              3
+            ],
+            "portrait": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042194/findy/amigos-amistad-2798475_iiitqm.webp",
+            "description": "The adventure is worth it",
+            "password": "12345",
+            "postStore": [
+              
+            ],
+            "likesStore": [
+              
+            ]
+          },
+          {
+            "id": 4,
+            "username": "usuario4",
+            "name": "Santiago",
+            "email": "usuario4@example.com",
+            "avatar": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042184/findy/ThinkstockPhotos-607488494_cmpwpk.webp",
+            "portrait": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042180/findy/que-es-la-persona-3_zyzsa5.jpg",
+            "followers": [
+              2,
+              3,
+              1
+            ],
+            "following": [
+              5
+            ],
+            "posts": [
+              
+            ],
+            "description": "Don't say it, show it",
+            "password": "12345",
+            "postStore": [
+              
+            ],
+            "likesStore": [
+              
+            ]
+          },
+          {
+            "id": 5,
+            "username": "usuario5",
+            "name": "Christian",
+            "email": "usuario5@example.com",
+            "avatar": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042167/findy/persona-e1533759204552_ymsfeb.jpg",
+            "portrait": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042163/findy/amigos-personas-allegadas_sn4n5o.jpg",
+            "followers": [
+              4,
+              1
+            ],
+            "following": [
+              1
+            ],
+            "posts": [
+              
+            ],
+            "description": "No one is like you and that is your power",
+            "password": "12345",
+            "postStore": [
+              
+            ],
+            "likesStore": [
+              
+            ]
+        }
+    ],
+    "posts":[
+        {
+            "id": 1,
+            "userId": 1,
+            "media": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042163/findy/D7PHNM3GTBGL3BSSGOV2XENQSY_pfm2ev.avif",
+            "caption": ":D Happy moment",
+            "likes": [
+              
+            ],
+            "comments": [
+              1
+            ],
+            "tag": [
+              2,
+              3
+            ],
+            "type": "photo",
+            "time": 1691798400000
+          },
+          {
+            "id": 2,
+            "userId": 2,
+            "media": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699043370/findy/35PLYC333VABLI37B7AXD5U5OQ_xpxviu.avif",
+            "caption": "#Tbt en Madrid",
+            "likes": [
+              
+            ],
+            "comments": [
+              
+            ],
+            "tag": [
+              1
+            ],
+            "type": "photo",
+            "time": 1691863200000
+          },
+          {
+            "id": 3,
+            "userId": 3,
+            "media": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699043060/findy/72106_a341dc.jpg",
+            "caption": "Los viajes con amigo 20/10",
+            "likes": [
+              
+            ],
+            "comments": [
+              
+            ],
+            "tag": [
+              
+            ],
+            "type": "photo",
+            "time": 1691881200000
+          },
+          {
+            "id": 4,
+            "userId": 4,
+            "media": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042163/findy/f.elconfidencial.com_original_62c_e5d_314_62ce5d3141c0b670144a692b7f6a21fa_fwqxqq.jpg",
+            "caption": "Que gran equipo de trabajo",
+            "likes": [
+              
+            ],
+            "comments": [
+              
+            ],
+            "tag": [
+              1,
+              5
+            ],
+            "type": "photo",
+            "time": 1692039600000
+          },
+          {
+            "id": 5,
+            "userId": 5,
+            "media": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042167/findy/multiracial-grupo-joven-gente-toma-selfie_1139-1032_ypzbnz.jpg",
+            "caption": "Cosechando recuerdos con amigos",
+            "likes": [
+              
+            ],
+            "comments": [
+              
+            ],
+            "tag": [
+              3,
+              4
+            ],
+            "type": "photo",
+            "time": 1692133200000
+          },
+          {
+            "id": 6,
+            "userId": 1,
+            "media": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042180/findy/personas-emocionales-wide_webp_d6zwcv.webp",
+            "caption": "Cambio de Look",
+            "likes": [
+              
+            ],
+            "comments": [
+              
+            ],
+            "tag": [
+              
+            ],
+            "type": "photo",
+            "time": 1691798400000
+          },
+          {
+            "id": 7,
+            "userId": 1,
+            "media": "https://res.cloudinary.com/dbktnqag9/image/upload/v1699042166/findy/images_jnzbwx.jpg",
+            "caption": "Tarde de diversión",
+            "likes": [
+              
+            ],
+            "comments": [
+              
+            ],
+            "tag": [
+              
+            ],
+            "type": "photo",
+            "time": 1691798400000
+        }
+    ],
+    "comments":[
+        {
+            "id": 1,
+            "postId": 1,
+            "userId": 2,
+            "text": "¡Hermosa foto!",
+            "timestamp": "timestamp_aqui"
+        }
+    ]
+}
